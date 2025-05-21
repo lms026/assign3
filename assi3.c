@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("initial");
+	printf("modified");
 	return 0;
 }
